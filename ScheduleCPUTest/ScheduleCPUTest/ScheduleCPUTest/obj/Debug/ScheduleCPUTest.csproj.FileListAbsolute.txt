@@ -1,0 +1,11 @@
+C:\Users\USER\Documents\L1_MAMBWE_BAYEKWABO\PROGRAMMATION SYSTEME\TP5\ScheduleCPUTest\ScheduleCPUTest\bin\Debug\ScheduleCPUTest.exe
+C:\Users\USER\Documents\L1_MAMBWE_BAYEKWABO\PROGRAMMATION SYSTEME\TP5\ScheduleCPUTest\ScheduleCPUTest\bin\Debug\ScheduleCPUTest.pdb
+C:\Users\USER\Documents\L1_MAMBWE_BAYEKWABO\PROGRAMMATION SYSTEME\TP5\ScheduleCPUTest\ScheduleCPUTest\obj\Debug\ScheduleCPUTest.csprojAssemblyReference.cache
+C:\Users\USER\Documents\L1_MAMBWE_BAYEKWABO\PROGRAMMATION SYSTEME\TP5\ScheduleCPUTest\ScheduleCPUTest\obj\Debug\ScheduleCPUTest.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\L1_MAMBWE_BAYEKWABO\PROGRAMMATION SYSTEME\TP5\ScheduleCPUTest\ScheduleCPUTest\obj\Debug\ScheduleCPUTest.exe
+C:\Users\USER\Documents\L1_MAMBWE_BAYEKWABO\PROGRAMMATION SYSTEME\TP5\ScheduleCPUTest\ScheduleCPUTest\obj\Debug\ScheduleCPUTest.pdb
+C:\Users\user\Desktop\ScheduleCPUTest\ScheduleCPUTest\ScheduleCPUTest\obj\Debug\ScheduleCPUTest.exe
+C:\Users\user\Desktop\ScheduleCPUTest\ScheduleCPUTest\ScheduleCPUTest\obj\Debug\ScheduleCPUTest.pdb
+C:\Users\user\Desktop\ScheduleCPUTest\ScheduleCPUTest\ScheduleCPUTest\bin\Debug\ScheduleCPUTest.exe
+C:\Users\user\Desktop\ScheduleCPUTest\ScheduleCPUTest\ScheduleCPUTest\bin\Debug\ScheduleCPUTest.pdb
+C:\Users\user\Desktop\ScheduleCPUTest\ScheduleCPUTest\ScheduleCPUTest\obj\Debug\ScheduleCPUTest.csprojResolveAssemblyReference.cache
